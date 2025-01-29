@@ -7,7 +7,7 @@
 - 🏆 Open to **collaborations** and **exciting projects**
 - 🌎 Based in **Karnataka, India**
 
-![Profile Views](https://komarev.com/ghpvc/?username=SamarthBhat2006&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=SamarthBhat2006&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/SamarthBhat2006?label=Followers&style=flat)
 
 ---
 
